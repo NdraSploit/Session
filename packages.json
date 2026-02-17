@@ -1,0 +1,16 @@
+{
+  "users": {
+    "ID_USER_LU": {
+      "token": "TOKEN_BOT_LU",
+      "passcode": "KODE_RAHASIA_LU",
+      "status": "active",
+      "expired": "2026-12-31"
+    },
+    "ID_PEMBELI_1": {
+      "token": "TOKEN_BOT_DIA",
+      "passcode": "PASS_DIA",
+      "status": "active",
+      "expired": "2026-03-01"
+    }
+  }
+}
