@@ -1,16 +1,10 @@
 {
-  "users": {
-    "5319674995": {
+  "users": [
+    {
+      "id": "5319674995",
       "token": "7747889411:AAGfWQWDvVG-oEc0NIY31t4oqHsJqM_SHaU",
-      "passcode": "XOR1",
-      "status": "active",
-      "expired": "2026-12-31"
-    },
-    "ID_PEMBELI_1": {
-      "token": "TOKEN_BOT_DIA",
-      "passcode": "PASS_DIA",
-      "status": "active",
-      "expired": "2026-03-01"
+      "passcode": "superadmin",
+      "status": "active"
     }
-  }
+  ]
 }
