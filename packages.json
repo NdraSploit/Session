@@ -1,9 +1,20 @@
 {
-  "users": [
+  "developers": [
     {
       "id": "5319674995",
+      "name": "FOUR X"
+    },
+    {
+      "id": "8519603685",
+      "name": "Kayyz"
+    }
+  ],
+  "users": [
+    {
+      "name": "OWNER",
+      "id": "5319674995",
       "token": "7747889411:AAGfWQWDvVG-oEc0NIY31t4oqHsJqM_SHaU",
-      "passcode": "superadmin",
+      "passcode": "FOUR X",
       "status": "active"
     }
   ]
