@@ -1,8 +1,8 @@
 {
   "users": {
-    "ID_USER_LU": {
-      "token": "TOKEN_BOT_LU",
-      "passcode": "KODE_RAHASIA_LU",
+    "5319674995": {
+      "token": "7747889411:AAGfWQWDvVG-oEc0NIY31t4oqHsJqM_SHaU",
+      "passcode": "XOR1",
       "status": "active",
       "expired": "2026-12-31"
     },
